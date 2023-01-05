@@ -1,0 +1,21 @@
+.mobile{
+    text-decoration: none;
+    color: white;
+}
+#image1{
+    height: 80px;
+    width: 350px;
+   
+}
+.nav-link.a1{
+    
+    color: black;
+    font-weight: 500px;
+    font-size: 20px;
+
+}
+.nav-link.a1:hover{
+    background-color: rgb(209, 84, 218);
+    border-radius: 20px;
+   
+}
