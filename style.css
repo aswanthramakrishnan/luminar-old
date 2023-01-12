@@ -93,8 +93,8 @@ img{
 /* Trigger */
 .trigger{
     position: absolute;
-    top: 80%;
-    left: 300px;
+    top: 100%;
+    left: 230px;
  
 }
 .btn-primary.connect-us{
